@@ -1,0 +1,34 @@
+.form__forgot {
+  float: right;
+  margin: 5px 0px 30px;
+  font-size: 1.3rem;
+  color: #f7c325;
+  font-family: "Barlow", sans-serif;
+}
+.form__register {
+  color: #f7c325;
+  font-family: "Barlow", sans-serif;
+  margin-left: 6px;
+  font-size: 1.1rem;
+}
+.form__register:hover,
+.form__forgot:hover {
+  color: #f7c325;
+}
+.form__par {
+  font-size: 1.1rem;
+  margin-top: 40px;
+}
+.form__label {
+  color: #f7c325;
+  font-family: "Barlow", sans-serif;
+  font-size: 1.5rem;
+}
+
+.row {
+  justify-content: center;
+}
+
+.logo {
+  margin-bottom: 40px;
+}

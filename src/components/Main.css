@@ -1,0 +1,20 @@
+.row {
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+.main {
+    padding: 0px !important;
+}
+.head {
+    margin-top: 5px;
+    border-bottom: 1px solid #f4f4f4;
+}
+.head__title {
+    font-size: 1.3rem;
+    font-family: "Barlow", sans-serif;
+    color: #f7c325;
+}
